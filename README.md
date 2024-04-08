@@ -21,9 +21,3 @@ Nesta etapa, carregaremos os dados sobre restaurantes em Los Angeles, garantirem
 ## Passo 3: Preparando uma Apresentação
 Prepararemos uma apresentação da pesquisa para compartilhar com os investidores. A apresentação será convertida para o formato PDF para avaliação.
 
-## Avaliação
-O projeto será avaliado com base na preparação dos dados para análise, na construção e interpretação dos gráficos, na estrutura e clareza da apresentação e nas conclusões e recomendações fornecidas.
-
-**Presentation**: [link para a apresentação em PDF](link_para_a_apresentação_em_PDF)
-
-Boa sorte!
